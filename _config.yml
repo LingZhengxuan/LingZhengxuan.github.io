@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Zhengxuan Ling (凌政轩)"
-description              : "Research Fellow, Embodied AI, Zhejiang University"
+description              : "Research Fellow, Embodied AI, @ ZJU"
 repository               : "LingZhengxuan/LingZhengxuan.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : #true
 
 # google analytics
 google_analytics_id      :  #G-29ZJ7VVKMC
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhengxuan Ling (凌政轩)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/me.png"
   bio              : "Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
